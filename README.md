@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repos
 <br>
-author- aditya hake
+author- aditya (DYP)
